@@ -1,15 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-	<title>Mahasiswa Index</title>
-
+    <title>index</title>
 </head>
 <body>
-	<h1>Mahasiswa</h1>
-	<h3>Selamat datang, neko chan</h3>
-	<hr>
-
-
-	
+    
 </body>
 </html>
